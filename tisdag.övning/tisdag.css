@@ -1,0 +1,11 @@
+.body{
+    font-family: Arial;
+    font-size: 3rem;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+
+}
+
